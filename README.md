@@ -1,3 +1,9 @@
+## Comment faire
+Suivre la doc https://www.npmjs.com/package/next-i18next
+Ne pas oublier de rajouter les 'locale as string'
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
